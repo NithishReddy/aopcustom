@@ -1,0 +1,4 @@
+com/example/aopcustom/controller/Test.class
+com/example/aopcustom/AopcustomApplication.class
+com/example/aopcustom/aop/LogAnnotation.class
+com/example/aopcustom/aop/AopLogger.class
